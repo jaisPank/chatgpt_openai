@@ -14,6 +14,6 @@ class Chatbot:
 
 if __name__== "__main__":
     chatbot=Chatbot()
-    response=chatbot.get_response("Write about Birds.")
+    response=chatbot.get_response("Write some questions here")
     print(response)
 
